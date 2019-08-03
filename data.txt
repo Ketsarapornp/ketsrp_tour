@@ -1,0 +1,8 @@
+ID :5941759
+Ticket No :5
+Source province :Chiang Mai
+Destination province :Krabi
+Date :Thursday, August 29, 2019
+Ticket Drawn By :Chiang Mai
+time :05:00
+amount :300.00
